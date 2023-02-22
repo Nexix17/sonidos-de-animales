@@ -1,0 +1,29 @@
+body
+{
+    background:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.header_div
+{
+    background:aqua;
+    color:black;
+}
+
+.header_div p
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:azure;
+    letter-spacing:2px;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.main_div button
+{
+    font-family:'Times New Roman', Times, serif;
+    margin-top:30px;
+    width:130px;
+    font-weight:bolder;
+    letter-spacing:3px;
+}
